@@ -1,0 +1,5 @@
+.idea/
+target/
+mybatis-test.iml
+WebContent/WEB-INF/classes/
+.classpath
